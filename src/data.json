@@ -1,14 +1,14 @@
 {
-  "title": "scratchx-template",
+  "title": "scratoon",
   "descriptor": {
     "en": {
       "blocks": [
-        [" ", "alert %n", "alert", "Hello!"]
+        [" ", "send %s's score ( %n point )", "sendScore", "anonymous", 0]
       ]
     },
     "ja": {
       "blocks": [
-        [" ", "%n とアラートを出す", "alert", "こんにちは!"]
+        [" ", "%s の スコア ( %n ポイント ) を送る", "sendScore", "anonymous", 0]
       ]
     }
   }
